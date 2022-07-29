@@ -12,6 +12,7 @@ import 'package:petology/widgets/navigation_bar.dart';
 import 'dart:html' as html;
 
 class LoginScreen extends StatelessWidget {
+
   var emailController = TextEditingController();
   var passwordController = TextEditingController();
 
